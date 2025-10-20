@@ -4,6 +4,7 @@ python-dotenv
 weaviate-client
 qdrant-client
 nomic
+groq
 openai
 langchain
 sentence-transformers
@@ -21,3 +22,4 @@ fastapi
 pydantic
 beautifulsoup4
 pytest
+
