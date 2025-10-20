@@ -22,4 +22,6 @@ fastapi
 pydantic
 beautifulsoup4
 pytest
+einops
+
 
