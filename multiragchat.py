@@ -730,7 +730,7 @@ Please provide an enhanced version with:
         return answer, selected_collection, sources
 
 def main():
-    st.title("Andhra Pradesh RAG Intelligence Hub")
+    st.title("Andhra Pradesh Intelligence Hub")
     st.markdown("Ask Andhra – Chat with documents about **Polavaram Project** and **Amaravathi Capital City**")
     
     # Initialize RAG system
@@ -1061,4 +1061,5 @@ def main():
         st.rerun()
 
 if __name__ == "__main__":
+
     main()
