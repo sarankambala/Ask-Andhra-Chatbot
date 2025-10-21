@@ -433,7 +433,7 @@ def main():
         st.markdown("*Insights are AI-generated based on document content*")
     
     # Main content area
-    st.title("Andhra Pradesh AI Insights Chatbot")
+    st.title("Andhra Pradesh AI Insights Hub")
     
     # Auto-initialize with a random insight if none selected
     if not st.session_state.current_insight:
@@ -545,4 +545,5 @@ def main():
             st.rerun()
 
 if __name__ == "__main__":
+
     main()
